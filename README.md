@@ -24,3 +24,22 @@ Merancang sebuah kerangka website yang sesuai dengan design yang sudah dibuat
 ### Main Tools
 
 ![image](https://user-images.githubusercontent.com/51072808/175753357-1037833a-339d-43cb-9bda-6bc6944e6c75.png)
+
+
+### Required Skills
+Biasanya dibutuhkan saat lamar kerja
+
+
+Memahami HTML, CSS, dan Javascript.
+
+
+Memahami cara menggunakan kontrol versi seperti Git.
+
+
+Memahami Konsep REST API dan cara mengonsumsi API.
+
+
+Memahami framework seperti Tailwind, Bootstrap, VueJS atau ReactJS.
+
+
+Memahami bagaimana membuat website dengan responsive web design.
