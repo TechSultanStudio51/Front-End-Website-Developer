@@ -23,4 +23,4 @@ Merancang sebuah kerangka website yang sesuai dengan design yang sudah dibuat
 
 ### Main Tools
 
-![image](https://user-images.githubusercontent.com/51072808/175753290-404e4d0c-5b54-40b4-9229-e19f863beeda.png)
+![image](https://user-images.githubusercontent.com/51072808/175753357-1037833a-339d-43cb-9bda-6bc6944e6c75.png)
