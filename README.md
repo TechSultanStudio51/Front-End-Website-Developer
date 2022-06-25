@@ -20,3 +20,7 @@ Mengimplementasikan konsep design website ke dalam kode dengan HTML, JavaScript,
 
 
 Merancang sebuah kerangka website yang sesuai dengan design yang sudah dibuat
+
+### Main Tools
+
+![image](https://user-images.githubusercontent.com/51072808/175753290-404e4d0c-5b54-40b4-9229-e19f863beeda.png)
